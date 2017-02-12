@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_dashboard"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Dashboard" />
+        <item
+            android:id="@+id/nav_sales"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Sales" />
+        <item
+            android:id="@+id/nav_transaction"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Transactions" />
+        <item
+            android:id="@+id/nav_reports"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Reports" />
+        <item
+            android:id="@+id/nav_schedule"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Schedule" />
+    </group>
+
+    <item android:title="Sub Items">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="sub item 1" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="sub item 2" />
+        </menu>
+    </item>
+
+</menu>

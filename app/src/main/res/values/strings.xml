@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">AppUI</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_edit_profile">Edit Profile</string>
+    <string name="action_preference">Preferences</string>
+    <string name="action_sign_out">Sign Out</string>
+    <string name="title_activity_nav">NavActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="home">Welcome to home page</string>
+    <string name="title_activity_user_home">QuickTickets Dashboard</string>
+    <string name="title_activity_user_reg">User Registration</string>
+    <string name="activity_dashboard">Dashboard</string>
+    <string name="register">Create account</string>
+    <string name="uname">Name</string>
+    <string name="uemail">Enter your email</string>
+    <string name="upassword">Create a password</string>
+    <string name="ucpassword">Confirm your password</string>
+    <string name="udob">Birthday</string>
+    <string name="ugender">Gender</string>
+    <string name="umobile">Mobile phone</string>
+    <string name="udate">23/06/1993</string>
+    <string name="gender">Gender</string>
+    <string name="mobile">Mobile number</string>
+    <string name="iam">I am..</string>
+    <string name="profileImage">Profile</string>
+    <string name="uploadImg">upload</string>
+    <string name="termsConditions">I agree to the Company Terms of Service and Privacy Policy</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string-array name="gendersel">
+
+        <item>Male</item>
+        <item>Female</item>
+        <item>other</item>
+    </string-array>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_create_account">CreateAccount</string>
+
+
+
+</resources>
